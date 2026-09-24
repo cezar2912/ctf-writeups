@@ -3,6 +3,7 @@
 **Platform:** [TryHackMe](https://tryhackme.com/room/lianyu)  
 **Difficulty**: Easy
 **Focus:** web enumeration, encoded clues, FTP, file signatures, steganography, SSH, sudo privilege escalation
+**Room Author**: Deamon
 
 ## Summary
 
