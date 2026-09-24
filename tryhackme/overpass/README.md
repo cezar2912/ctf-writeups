@@ -1,8 +1,11 @@
 # Overpass — TryHackMe write-up
 
 **Platform:** [TryHackMe](https://tryhackme.com/room/overpass)  
+
 **Difficulty**: Easy
+
 **Focus:** web authentication, exposed SSH key, offline passphrase recovery, source review, writable hosts file, cron privilege escalation
+
 **Room Author**: NinjaJc01
 
 ## Summary
