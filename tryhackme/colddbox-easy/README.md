@@ -1,8 +1,11 @@
 # ColddBox: Easy — TryHackMe
 
 **Platform:** [TryHackMe](https://tryhackme.com/room/colddboxeasy)  
+
 **Difficulty:** Easy  
+
 **Focus:** WordPress enumeration, credential attack, authenticated PHP upload, credential reuse, Linux privilege escalation  
+
 **Room author:** Marti from Hixec
 
 ## Attack path
