@@ -1,12 +1,13 @@
 # SilverPlatter — TryHackMe write-up
 
-**Environment:** TryHackMe lab | **Target:** Linux | **Techniques:** web enumeration, authentication bypass, credential discovery, log review, password reuse, sudo privilege escalation
+**Platform:** [TryHackMe](https://tryhackme.com/room/colddboxeasy)  
+**Difficulty:** Easy  
+**Focus:** web enumeration, authentication bypass, credential discovery, log review, password reuse, sudo privilege escalation  
+**Room author:** Tyler Ramsbey
 
 ## Summary
 
 I found a Silverpeas login on port 8080 and used an authentication bypass to access two application accounts. A notification in the second account exposed SSH credentials for `tim`. On the host, `tim` belonged to the `adm` group, which let me read logs containing another credential. That password worked for `tyler`, whose unrestricted `sudo` access led to root.
-
-This is a walkthrough of a lab machine. The target IP changed with the lab session, so commands below use `<TARGET_IP>`. Passwords and flag values are omitted.
 
 ## 1. Reconnaissance
 
@@ -22,7 +23,7 @@ nmap -Pn -p- -sV -sC --open <TARGET_IP>
 | 80/tcp   | nginx 1.18.0  | A public website was running.                                                                              |
 | 8080/tcp | `http-proxy`  | The port served a Silverpeas web application. The Nmap label alone does not establish that it was a proxy. |
 
-![Nmap scan showing ports 22, 80, and 8080](images/nmap.png)
+![Nmap scan showing ports 22, 80, and 8080](tryhackme/silver-platter/images/nmap.png)
 
 On port 80, I browsed the site and enumerated paths with `feroxbuster`. I also ran `whatweb` to identify the visible web stack:
 

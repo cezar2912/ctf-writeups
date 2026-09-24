@@ -4,9 +4,10 @@ Write-ups from TryHackMe, documenting how I approached each lab, the evidence be
 
 ## Write-ups
 
-| Platform  | Lab                                                  | Topics                                                                           |
-| --------- | ---------------------------------------------------- | -------------------------------------------------------------------------------- |
-| TryHackMe | [Silver Platter](tryhackme/silver-platter/README.md) | Web enumeration, authentication bypass, log analysis, Linux privilege escalation |
+| Platform  | Lab                                                  | Topics                                                                                        |
+| --------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| TryHackMe | [Silver Platter](tryhackme/silver-platter/README.md) | Web enumeration, authentication bypass, log analysis, Linux privilege escalation              |
+| TryHackMe | [ColddBox](tryhackme/colddbox-easy/README.md)        | WordPress enumeration, authenticated PHP upload, credential reuse, Linux privilege escalation |
 
 ## How I document a lab
 

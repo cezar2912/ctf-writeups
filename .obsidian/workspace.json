@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "c5f29cc74b4e0f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0bcde3135fa3434",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82cec6b1bdfbe50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tryhackme/colddbox-easy/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "786a3c363400d85b",
+    "type": "split",
+    "children": [
+      {
+        "id": "017ad75edc26b3b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de53da775b1ceea8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "541e0446140013d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7fc0481e80732263",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "719fc798021f85ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad607920ace4b435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9267458bde9b8376",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tryhackme/colddbox-easy/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cfe8eeb9f2e26e1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tryhackme/colddbox-easy/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "85a06c76affd8f4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6f5d7b507fa529e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9a6e36538d9f1271",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tryhackme/colddbox-easy/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e82cec6b1bdfbe50",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "tryhackme/colddbox-easy/images/root-id.png.~tmp",
+    "tryhackme/colddbox-easy/images/root-id.png",
+    "tryhackme/silver-platter/README.md",
+    "tryhackme/colddbox-easy/README.md",
+    "tryhackme/colddbox-easy/images/hidden-message.png",
+    "tryhackme/colddbox-easy/images/known-user.png",
+    "tryhackme/colddbox-easy/images/nmap.png",
+    "tryhackme/colddbox-easy/images/sudo-list.png",
+    "tryhackme/colddbox-easy/images/unknown-user.png",
+    "tryhackme/colddbox-easy/images/wp-users.png",
+    "tryhackme/colddbox-easy/images/www-data-shell.png",
+    "tryhackme/silver-platter/images/contact-clue.png",
+    "README.md"
+  ]
+}
