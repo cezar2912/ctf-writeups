@@ -1,8 +1,11 @@
 # SilverPlatter — TryHackMe write-up
 
 **Platform:** [TryHackMe](https://tryhackme.com/room/colddboxeasy)  
+
 **Difficulty:** Easy  
+
 **Focus:** web enumeration, authentication bypass, credential discovery, log review, password reuse, sudo privilege escalation  
+
 **Room author:** Tyler Ramsbey
 
 ## Summary
