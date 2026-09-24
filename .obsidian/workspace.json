@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tryhackme/colddbox-easy/README.md",
+                "file": "tryhackme/lian-yu/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tryhackme/colddbox-easy/README.md",
+                "file": "tryhackme/lian-yu/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tryhackme/colddbox-easy/README.md",
+                "file": "tryhackme/lian-yu/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tryhackme/colddbox-easy/README.md",
+                "file": "tryhackme/lian-yu/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,19 +190,28 @@
   },
   "active": "e82cec6b1bdfbe50",
   "lastOpenFiles": [
+    "tryhackme/lian-yu/images/root-id.png",
+    "tryhackme/lian-yu/images/Pasted image 20260922142239.png",
+    "tryhackme/lian-yu/images/gtfo.png",
+    "tryhackme/lian-yu/images/Pasted image 20260922142135.png",
+    "tryhackme/lian-yu/images/sudo.png",
+    "tryhackme/lian-yu/images/Pasted image 20260922142002.png",
+    "tryhackme/overpass/README.md",
+    "tryhackme/colddbox-easy/README.md",
+    "tryhackme/lian-yu/README.md",
+    "tryhackme/lian-yu/images/ticket.png.~tmp",
+    "tryhackme/lian-yu/images/Pasted image 20260922131938.png",
+    "tryhackme/lian-yu/images/nmap.png",
+    "tryhackme/lian-yu/images/Pasted image 20260922124341.png",
+    "tryhackme/lian-yu/images/slade-id.png",
+    "tryhackme/lian-yu/images/homepage.png",
+    "tryhackme/lian-yu/images",
+    "tryhackme/lian-yu",
+    "tryhackme/silver-platter/README.md",
+    "tryhackme/overpass/images",
+    "tryhackme/overpass",
     "New Text Document.txt",
     "tryhackme/colddbox-easy/images/root-id.png.~tmp",
-    "tryhackme/colddbox-easy/images/root-id.png",
-    "tryhackme/silver-platter/README.md",
-    "tryhackme/colddbox-easy/README.md",
-    "tryhackme/colddbox-easy/images/hidden-message.png",
-    "tryhackme/colddbox-easy/images/known-user.png",
-    "tryhackme/colddbox-easy/images/nmap.png",
-    "tryhackme/colddbox-easy/images/sudo-list.png",
-    "tryhackme/colddbox-easy/images/unknown-user.png",
-    "tryhackme/colddbox-easy/images/wp-users.png",
-    "tryhackme/colddbox-easy/images/www-data-shell.png",
-    "tryhackme/silver-platter/images/contact-clue.png",
     "README.md"
   ]
 }
