@@ -4,12 +4,13 @@ Write-ups from TryHackMe, documenting how I approached each lab, the evidence be
 
 ## Write-ups
 
-| Platform  | Lab                                                  | Topics                                                                                        |
-| --------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| TryHackMe | [Silver Platter](tryhackme/silver-platter/README.md) | Web enumeration, authentication bypass, log analysis, Linux privilege escalation              |
-| TryHackMe | [ColddBox](tryhackme/colddbox-easy/README.md)        | WordPress enumeration, authenticated PHP upload, credential reuse, Linux privilege escalation |
-| TryHackMe | [Lian yu](tryhackme/lian-yu/README.md) | Web enumeration, encoded clues, steganography, FTP, sudo privilege escalation |
-| TryHackMe | [Overpass](tryhackme/overpass/README.md) | Web authentication, private key exposure, offline passphrase recovery, cron privilege escalation |
+| Platform  | Lab                                                  | Topics                                                                                           |
+| --------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| TryHackMe | [Silver Platter](tryhackme/silver-platter/README.md) | Web enumeration, authentication bypass, log analysis, Linux privilege escalation                 |
+| TryHackMe | [ColddBox](tryhackme/colddbox-easy/README.md)        | WordPress enumeration, authenticated PHP upload, credential reuse, Linux privilege escalation    |
+| TryHackMe | [Lian yu](tryhackme/lian-yu/README.md)               | Web enumeration, encoded clues, steganography, FTP, sudo privilege escalation                    |
+| TryHackMe | [Overpass](tryhackme/overpass/README.md)             | Web authentication, private key exposure, offline passphrase recovery, cron privilege escalation |
+| TryHackMe | [Billing](tryhackme/billing/README.md)               | Web enumeration, web vulnerability scan, remote code execution, sudo privilege escalation        |
 
 ## How I document a lab
 
